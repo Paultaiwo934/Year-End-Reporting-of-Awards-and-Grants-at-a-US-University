@@ -9,6 +9,7 @@ This project provides an **interactive data visualization** of the Department of
 
 The goal is to give **research administrators, faculty, and leadership** actionable insights into funding performance and trends over time.
 
+[View Dashboard on Power BI](https://app.powerbi.com/groups/me/reports/dd559347-ca6e-484d-976f-64e77a504624/34fb8666ad05b7037147?experience=power-bi)
 ---
 
 ## 📂 Dataset
